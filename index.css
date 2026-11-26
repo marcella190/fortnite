@@ -1,0 +1,28 @@
+header {
+    background-color: rgba(255, 159, 124, 0.866);
+    height: 150px;
+    padding: 20px 0;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 25px;
+}
+nav a {
+    text-decoration: none; 
+    text-transform: uppercase;
+    color: rgba(255, 249, 162, 0.926);
+    font-weight: bold;
+    transition: color rgb(114, 114, 240) 0.3s ease;
+}
+nav li {
+    font-size: 30px;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(166, 166, 255);
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    text-align: center;}
